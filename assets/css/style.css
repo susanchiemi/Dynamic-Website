@@ -1,0 +1,45 @@
+body {
+background: #e6f3f7;
+}
+
+.jumbotron, .col-md-12 {
+    background-color: #FCF8E3;
+}
+
+#gifButtonsView {
+    margin-bottom: 20px;
+}
+
+#action-input {
+    width: 270px;
+}
+
+button {
+    margin-right: 10px;
+} 
+
+.btn {
+    margin-bottom: 10px;
+}
+
+#gif-form {
+    margin: 0;
+    padding: 0;
+}
+
+img { 
+    height: 175px;
+    width: 175px;
+}
+
+.gifDiv{
+    float: left;
+    margin: 10px;
+}
+
+#footer {
+ background: #FCF8E3;  
+ padding-top: 20px; 
+}
+
+
