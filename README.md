@@ -12,7 +12,7 @@
 * [Giphy](https://giphy.com/) GIPHY API
 
 ## Future Development & Fixes Needed
-* Create Button needs to clear/empty after click
+* "Submit Your Button" input form needs to clear/empty after click
 
 ## Acknowledgments
 * UCF Coding Bootcamp homework assignment
