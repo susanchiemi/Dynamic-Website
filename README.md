@@ -2,7 +2,7 @@
 
 ## GifTastic Dynamic Web Page
 * Frontend development & design using bootstrap, javascript, jquery and API from giphy.
-* [Giphy Naturally]( https://susanchiemi.github.io/Dynamic-Website/) - published paged
+* [Giphy Naturally]( https://susanchiemi.github.io/Dynamic-Website/) - published page
 
 ## Tools Used
 * [Visual Studio Code](https://code.visualstudio.com/) - code editor
