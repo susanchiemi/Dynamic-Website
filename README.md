@@ -8,7 +8,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - code editor
 * Command Line with Terminal to push project to Github
 * [Bootstrap](https://getbootstrap.com/) - css framework
-* [GitHub Pages](https://help.github.com/articles/what-is-github-pages/) - Giphy API
+* [GitHub Pages](https://help.github.com/articles/what-is-github-pages/)
 * [Giphy](https://giphy.com/) GIPHY API
 
 ## Future Development & Fixes Needed
